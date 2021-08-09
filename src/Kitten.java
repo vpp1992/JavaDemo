@@ -8,6 +8,10 @@ public class Kitten {
         System.out.println("bugfix");
     }
 
+    public void updateBugFix() {
+        System.out.println("update bug fixes");
+    }
+
     public void newFeature() {
         System.out.println("new features");
     }
