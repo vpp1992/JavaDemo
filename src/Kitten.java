@@ -12,6 +12,10 @@ public class Kitten {
         System.out.println("new features");
     }
 
+    public void newFeatures2() {
+        System.out.println("features2");
+    }
+
     public void updateBugFix() {
         System.out.println("update bug fixes");
     }
