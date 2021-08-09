@@ -11,4 +11,8 @@ public class Kitten {
     public void newFeature() {
         System.out.println("new features");
     }
+
+    public void newFeatures2() {
+        System.out.println("features2");
+    }
 }
