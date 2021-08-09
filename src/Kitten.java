@@ -7,4 +7,8 @@ public class Kitten {
     public void bugFix() {
         System.out.println("bugfix");
     }
+
+    public void updateBugFix() {
+        System.out.println("update bug fixes");
+    }
 }
